@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+    body {
+        background-color: aliceblue;
+    }
+
+    .cabecalho {
+        background-color: aqua;
+    }
+}

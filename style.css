@@ -21,6 +21,9 @@ body {
   justify-content: space-around;
   padding: 24px;
 }
+#burguer {
+  display: none;
+}
 
 .cabecalho-imagem {
   height: 72px;
@@ -39,7 +42,6 @@ body {
 }
 
 .conteudo {
-  margin-bottom: 48px;
   border-top: 0.4px solid #FFF2E7;
 }
 

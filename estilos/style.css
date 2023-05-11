@@ -1,6 +1,9 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
 
+
+
+
 *{
   margin: 0px;
   padding: 0px;  
@@ -21,9 +24,7 @@ body {
   justify-content: space-around;
   padding: 24px;
 }
-#burguer {
-  display: none;
-}
+
 
 .cabecalho-imagem {
   height: 72px;
@@ -43,6 +44,7 @@ body {
 
 .conteudo {
   border-top: 0.4px solid #FFF2E7;
+  margin-bottom: 48px;
 }
 
 .conteudo-principal {
@@ -129,3 +131,5 @@ body {
   display: block;
   margin: auto;
 }
+
+
